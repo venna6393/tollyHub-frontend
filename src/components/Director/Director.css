@@ -1,0 +1,37 @@
+.director-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background: #f9f9f9;
+}
+
+.director-container h2 {
+  text-align: center;
+}
+
+.director-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.director-container label {
+  margin: 10px 0 5px;
+}
+
+.director-container input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.director-container button {
+  padding: 10px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 3px;
+  background-color: #17a2b8;
+  color: #fff;
+  cursor: pointer;
+}

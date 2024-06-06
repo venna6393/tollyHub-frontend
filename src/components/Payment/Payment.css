@@ -1,0 +1,13 @@
+.payment-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.payment-container button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  background-color: #ffc107;
+  color: #fff;
+  cursor: pointer;
+}
